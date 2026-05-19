@@ -12,7 +12,7 @@
 
 ### 📓 Notebooks
 Here are some examples of my notebooks with data analysis and ML code:
-- **[MRI Classification](https://www.kaggle.com/code/infernaltiger/ml-assigment-2)** — CNN-based multi-class pathology detection
+- **[MRI Classification](https://colab.research.google.com/drive/1XqFzjf7UvHWXgRLrxid2efW0HpM84YkN?usp=sharing)** — CNN-based multi-class pathology detection
 
 ---
 
