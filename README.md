@@ -2,7 +2,7 @@
 ## Hi there 👋
 - My name is **Artem**!
 - I'm a Data Scientist / ML Engineer
-- **Key skills:** Python (pandas, PyTorch, scikit-learn) | ML: Regression, CNN, Transfer Learning | SQL/NoSQL | Docker, Git
+- **Key skills:** Python (pandas, PyTorch, scikit-learn) | ML: Regression, Classification, CNN, Transfer Learning | SQL/NoSQL | Docker, Git
 - **BSc:** Ural Federal University 2021-2025. Thesis: *Document orientation detection*
 - **MSc:** Innopolis University 2025–Now. Research: generative models (RandAR), DB benchmarking, ML
 - **How to reach me:**
