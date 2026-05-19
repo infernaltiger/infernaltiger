@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Hi there 👋
 - My name is **Artem**!
 - I'm a Data Scientist / ML Engineer
 - **Key skills:** Python (pandas, PyTorch, scikit-learn) | ML: Regression, Classification, CNN, Transfer Learning | SQL/NoSQL | Docker, Git
