@@ -4,7 +4,7 @@
 - I'm a Data Scientist / ML Engineer
 - **Key skills:** Python (pandas, PyTorch, scikit-learn) | ML: Regression, Classification, CNN, Transfer Learning | SQL/NoSQL | Docker, Git
 - **BSc:** Ural Federal University 2021-2025. Thesis: *Document orientation detection*
-- **MSc:** Innopolis University 2025–Now. Research: generative models (RandAR), DB benchmarking, ML
+- **MSc:** Innopolis University 2025–Now. Research: generative models (RandAR), ML, IR, RL, RAG
 - **How to reach me:**
   * Email: [aslevakov1@gmail.com](mailto:aslevakov1@gmail.com)
   * Telegram: [@infernaltiger](https://t.me/infernaltiger)
