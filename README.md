@@ -18,7 +18,7 @@ Here are some examples of my notebooks with data analysis and ML code:
 ---
 
 ### 🗂️ Repositories
-Below you can find some examples of my repositories. One of the interesting is [project based on RandAR model] (https://github.com/lime413/randar) where im working on testing robustness of AR model.
+Below you can find some examples of my repositories. One of the interesting is [project based on RandAR model](https://github.com/lime413/randar) where im working on testing robustness of AR model.
 - **[Document Orientation CNN](https://github.com/infernaltiger/diplom_code)** — My Thesis with transfer learning pipeline for document scan classification
 - **[IR Retrieval Service](https://github.com/alpa4/ir-retrieval)** - Two-level retrieval pipeline for searching text documents.
 
